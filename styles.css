@@ -1,0 +1,185 @@
+:root {
+    --primary-green: #2d5f3f;
+    --secondary-green: #4a8f5d;
+    --light-green: #a8d5ba;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: #2c3e50;
+    line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif;
+    color: var(--primary-green);
+}
+
+/* Navigation */
+.navbar {
+    background: linear-gradient(135deg, var(--primary-green), var(--secondary-green)) !important;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.navbar-brand {
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+
+.navbar-nav .nav-link {
+    color: rgba(255,255,255,0.9) !important;
+    font-weight: 500;
+}
+
+.navbar-nav .nav-link:hover {
+    color: white !important;
+}
+
+/* Hero Section */
+.hero-section {
+    background: linear-gradient(135deg, var(--primary-green), var(--secondary-green), #6abf7e);
+    color: white;
+    padding: 150px 0 120px;
+    margin-top: 56px;
+}
+
+.hero-title {
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+}
+
+.hero-subtitle {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.hero-description {
+    font-size: 1.1rem;
+    margin-bottom: 2rem;
+}
+
+.hero-section .btn-light {
+    padding: 12px 40px;
+    font-weight: 600;
+    border-radius: 50px;
+}
+
+/* Content Sections */
+.content-section {
+    padding: 80px 0;
+}
+
+.section-title {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.section-subtitle {
+    font-size: 1.2rem;
+    color: #6c757d;
+    margin-bottom: 3rem;
+}
+
+/* Visualization Placeholders */
+.viz-placeholder {
+    background-color: white;
+    border: 3px dashed #dee2e6;
+    border-radius: 12px;
+    padding: 3rem;
+    margin-bottom: 3rem;
+    min-height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.viz-placeholder p {
+    color: #6c757d;
+    font-size: 1.1rem;
+    font-style: italic;
+}
+
+/* Call to Action */
+.action-section {
+    background: linear-gradient(135deg, var(--primary-green), var(--secondary-green));
+    color: white;
+}
+
+.action-section .section-title,
+.action-section .section-subtitle {
+    color: white;
+}
+
+.cta-box {
+    background-color: rgba(255,255,255,0.1);
+    border: 2px solid rgba(255,255,255,0.2);
+    border-radius: 12px;
+    padding: 3rem;
+    margin-top: 2rem;
+}
+
+.cta-box h3 {
+    color: white;
+    font-size: 2rem;
+}
+
+.action-list {
+    list-style: none;
+    padding: 0;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.action-list li {
+    padding: 1rem;
+    margin-bottom: 1rem;
+    background-color: rgba(255,255,255,0.1);
+    border-left: 4px solid var(--light-green);
+    border-radius: 4px;
+}
+
+/* Footer */
+.footer {
+    background-color: #3a3a3a;
+    color: rgba(255,255,255,0.8);
+    padding: 3rem 0 2rem;
+}
+
+.footer h5 {
+    color: var(--light-green);
+    margin-bottom: 1.5rem;
+}
+
+.footer a {
+    color: rgba(255,255,255,0.7);
+}
+
+.footer a:hover {
+    color: var(--light-green);
+}
+
+.footer ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer ul li {
+    margin-bottom: 0.5rem;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+    .hero-title {
+        font-size: 2rem;
+    }
+
+    .section-title {
+        font-size: 2rem;
+    }
+
+    .viz-placeholder {
+        padding: 2rem;
+        min-height: 300px;
+    }
+}

@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Green Horizon | Illuminating the Energy Transition</title>
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Open+Sans:wght@300;400;600&display=swap" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="styles.css">
+
+    <!-- D3.js -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top">
+        <div class="container">
+            <a class="navbar-brand" href="#hero">
+                <span class="brand-icon">🌱</span> Green Horizon
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a class="nav-link" href="#context">The Problem</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#current-state">Current State</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#impact">Impact</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#deep-dive">Analysis</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#future">Future Outlook</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#action">Take Action</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="hero" class="hero-section">
+        <div class="container">
+            <div class="row justify-content-center text-center">
+                <div class="col-lg-10">
+                    <h1 class="hero-title">Illuminating the Energy Transition</h1>
+                    <p class="hero-subtitle">A Global Dashboard on Renewable Power Growth (2010–2025)</p>
+                    <p class="hero-description">
+                        How the growing investment in renewable energy is combating pollution in an increasingly energy-dependent world
+                    </p>
+                    <div class="hero-meta">
+                        <p><strong>Team Green Horizon</strong></p>
+                        <p>Jonathan Collins • Will Shaw • Jessie Rigsbee • Nicolas Miranda</p>
+                    </div>
+                    <a href="#context" class="btn btn-lg btn-light mt-4 smooth-scroll">Explore the Data</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Context Section (Hook) -->
+    <section id="context" class="content-section bg-light">
+        <div class="container">
+            <div class="section-header text-center mb-5">
+                <h2 class="section-title">The Growing Energy Challenge</h2>
+                <p class="section-subtitle">Global energy demand is soaring. Governments around the world have offered incentives, and "green initiatives" are a common sight. Are they working?</p>
+            </div>
+
+            <!-- Visualization 1: Population & Energy Demand Over Time -->
+            <div class="viz-placeholder" id="viz-population-demand">
+                <p>Maybe this visualization could show population growth and energy demand over time.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Current State Section (Rising Insights) -->
+    <section id="current-state" class="content-section">
+        <div class="container">
+            <div class="section-header text-center mb-5">
+                <h2 class="section-title">The Global Picture is Uneven</h2>
+                <p class="section-subtitle">Some countries lead in renewable energy adoption, others in sheer output. Fossil fuels still hold the lion's share.</p>
+            </div>
+
+            <!-- Visualization 2: Global Renewable Energy Landscape -->
+            <div class="viz-placeholder" id="viz-renewable-percentage">
+                <p>Maybe this visualization could show which countries are leading in renewable energy adoption.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Impact Analysis Section (Main Message) -->
+    <section id="impact" class="content-section bg-light">
+        <div class="container">
+            <div class="section-header text-center mb-5">
+                <h2 class="section-title">Renewable Energy Is Not Just Symbolic</h2>
+                <p class="section-subtitle">It's reducing emissions, and changing the trajectory of energy use.</p>
+            </div>
+
+            <!-- Visualization 3: Renewable Impact & Investment -->
+            <div class="viz-placeholder" id="viz-renewable-pollution">
+                <p>Maybe this visualization could show the correlation between renewable energy and pollution reduction.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Deep Dive Section (Rising Insights Continued) -->
+    <section id="deep-dive" class="content-section">
+        <div class="container">
+            <div class="section-header text-center mb-5">
+                <h2 class="section-title">A Closer Look at Energy Evolution</h2>
+                <p class="section-subtitle">Not all progress is linear. Some countries have made dramatic shifts, while others remain dependent on fossil fuels.</p>
+            </div>
+
+            <!-- Visualization 4: Energy Evolution & Geographic Distribution -->
+            <div class="viz-placeholder" id="viz-plants-timeline">
+                <p>Maybe this visualization could show how energy sources have changed over time.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Future Outlook Section (Solution) -->
+    <section id="future" class="content-section bg-light">
+        <div class="container">
+            <div class="section-header text-center mb-5">
+                <h2 class="section-title">Looking Forward</h2>
+                <p class="section-subtitle">By expanding green funding in the largest energy-producing nations, we can accelerate the global transition and dramatically reduce pollution.</p>
+            </div>
+
+            <!-- Visualization 5: Leaders & Future Outlook -->
+            <div class="viz-placeholder" id="viz-renewable-leaders">
+                <p>Maybe this visualization could show future projections for renewable energy growth.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Call to Action Section -->
+    <section id="action" class="content-section action-section">
+        <div class="container">
+            <div class="section-header text-center mb-5">
+                <h2 class="section-title">The Hidden Energy Demand</h2>
+                <p class="section-subtitle">Data centers are the source of the majority of new energy usage, placing strain on energy providers. What powers them?</p>
+            </div>
+
+            <!-- Visualization 6: Data Center Energy Consumption -->
+            <div class="viz-placeholder" id="viz-datacenter-energy">
+                <p>Maybe this visualization could show data center energy consumption and sources.</p>
+            </div>
+
+            <!-- Call to Action Text -->
+            <div class="row justify-content-center mt-5">
+                <div class="col-lg-8 text-center">
+                    <div class="cta-box">
+                        <h3>What Can You Do?</h3>
+                        <p class="lead">As energy demand continues to rise - driven by AI, cloud computing, and digital infrastructure - the choices we make about power sources matter more than ever.</p>
+                        <ul class="action-list">
+                            <li><strong>Stay informed:</strong> Track your local energy mix and advocate for renewable investments</li>
+                            <li><strong>Support green data centers:</strong> Choose cloud providers committed to 100% renewable energy</li>
+                            <li><strong>Push for policy change:</strong> Contact representatives to support clean energy incentives</li>
+                            <li><strong>Reduce consumption:</strong> Small efficiency gains multiplied across the population can make a huge difference.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <h5>Green Horizon Project</h5>
+                    <p>A data visualization project exploring renewable energy adoption worldwide (2010–2025)</p>
+                    <p class="mb-0"><strong>Team Members:</strong></p>
+                    <ul class="team-list">
+                        <li>Jonathan Collins - <a href="mailto:joncollins@gatech.edu">joncollins@gatech.edu</a></li>
+                        <li>Will Shaw - <a href="mailto:wshaw31@gatech.edu">wshaw31@gatech.edu</a></li>
+                        <li>Jessie Rigsbee - <a href="mailto:jrigsbee3@gatech.edu">jrigsbee3@gatech.edu</a></li>
+                        <li>Nicolas Miranda - <a href="mailto:nmiranda3@gatech.edu">nmiranda3@gatech.edu</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <h5>Data Sources</h5>
+                    <ul class="data-sources">
+                        <li><a href="https://datasets.wri.org/dataset/globalpowerplantdatabase" target="_blank">World Resource Institute: Global Power Plants Database</a></li>
+                        <li><a href="https://energydata.info/" target="_blank">energydata.info: Renewable Energy Statistics</a></li>
+                        <li><a href="https://www.eia.gov/" target="_blank">U.S. Energy Information Administration</a></li>
+                        <li><a href="https://en.wikipedia.org/wiki/Renewable_energy_in_the_United_States" target="_blank">Wikipedia: Renewable Energy in the US</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="row mt-4">
+                <div class="col text-center">
+                    <p class="mb-0">Green Horizon Team | CS4460 Fall 2025</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Custom JS -->
+    <script src="script.js"></script>
+
+</body>
+</html>
