@@ -72,6 +72,11 @@
             <!-- Visualization 1: Population & Energy Demand Over Time -->
             <div class="viz-placeholder" id="viz-population-demand">
             </div>
+            <div id="energy-toggle" style="margin-bottom: 10px;">
+                <button id="all" class="active">All Sources</button>
+                <button id="renewable" class="active">Renewable Only</button>
+                <button id="non-renewable" class="active">Non-Renewable Only</button>
+            </div>
         </div>
     </section>
 
@@ -81,11 +86,11 @@
             <div class="section-header text-center mb-5">
                 <h2 class="section-title">The Global Picture is Uneven</h2>
                 <p class="section-subtitle">Some countries lead in renewable energy adoption, others in sheer output. Fossil fuels still hold the lion's share.</p>
+                <p class="section-subtitle">Mostly did data cleansing for this and set up the class. We have the year/generation amount now but this might be more helpful for out data center visualization</p>
             </div>
 
             <!-- Visualization 2: Global Renewable Energy Landscape -->
             <div class="viz-placeholder" id="viz-renewable-percentage">
-                <p>Maybe this visualization could show which countries are leading in renewable energy adoption.</p>
             </div>
         </div>
     </section>
