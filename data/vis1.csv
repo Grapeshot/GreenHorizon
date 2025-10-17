@@ -1,0 +1,484 @@
+Year,Source,Metric,Value
+2000,Bioenergy,Electricity Generation (GWh),146422.46
+2000,Bioenergy,Public Flows (2022 USD M),13.83
+2000,Fossil,Electricity Generation (GWh),9965337.64
+2000,Fossil,Public Flows (2022 USD M),1295.68
+2000,Geothermal,Electricity Generation (GWh),52571.04
+2000,Geothermal,Public Flows (2022 USD M),0.44
+2000,Hydropower,Electricity Generation (GWh),2619126.81
+2000,Hydropower,Public Flows (2022 USD M),384.12
+2000,Marine,Electricity Generation (GWh),546.77
+2000,Marine,Public Flows (2022 USD M),0.01
+2000,Nuclear,Electricity Generation (GWh),2588111.26
+2000,Nuclear,Public Flows (2022 USD M),34.93
+2000,Other-Non-renewable,Electricity Generation (GWh),63449.36
+2000,Pumped-Storage,Electricity Generation (GWh),87909.91
+2000,Solar,Electricity Generation (GWh),1317.64
+2000,Solar,Public Flows (2022 USD M),22.36
+2000,Wind,Electricity Generation (GWh),30965.71
+2000,Wind,Public Flows (2022 USD M),4.39
+2000,Total-Sum,Electricity Generation (GWh),15555758.6
+2000,Total-Sum,Public Flows (2022 USD M),1755.76
+2001,Bioenergy,Electricity Generation (GWh),146449.45
+2001,Bioenergy,Public Flows (2022 USD M),6.45
+2001,Fossil,Electricity Generation (GWh),10077917.83
+2001,Fossil,Public Flows (2022 USD M),2317.29
+2001,Geothermal,Electricity Generation (GWh),51678.62
+2001,Hydropower,Electricity Generation (GWh),2557776.84
+2001,Hydropower,Public Flows (2022 USD M),1043.82
+2001,Marine,Electricity Generation (GWh),524.4
+2001,Nuclear,Electricity Generation (GWh),2636315.59
+2001,Nuclear,Public Flows (2022 USD M),41.59
+2001,Other-Non-renewable,Electricity Generation (GWh),68152.93
+2001,Pumped-Storage,Electricity Generation (GWh),87697.28
+2001,Solar,Electricity Generation (GWh),1684.64
+2001,Solar,Public Flows (2022 USD M),329.68
+2001,Wind,Electricity Generation (GWh),37745.5
+2001,Wind,Public Flows (2022 USD M),51.85
+2001,Total-Sum,Electricity Generation (GWh),15665943.08
+2001,Total-Sum,Public Flows (2022 USD M),3790.68
+2002,Bioenergy,Electricity Generation (GWh),160162.71
+2002,Bioenergy,Public Flows (2022 USD M),208
+2002,Fossil,Electricity Generation (GWh),10558822.29
+2002,Fossil,Public Flows (2022 USD M),2517.51
+2002,Geothermal,Electricity Generation (GWh),52604.69
+2002,Geothermal,Public Flows (2022 USD M),2.93
+2002,Hydropower,Electricity Generation (GWh),2626828.69
+2002,Hydropower,Public Flows (2022 USD M),2003.85
+2002,Marine,Electricity Generation (GWh),533.9
+2002,Nuclear,Electricity Generation (GWh),2661408.66
+2002,Nuclear,Public Flows (2022 USD M),186.82
+2002,Other-Non-renewable,Electricity Generation (GWh),69790.71
+2002,Pumped-Storage,Electricity Generation (GWh),89309.43
+2002,Solar,Electricity Generation (GWh),1957.49
+2002,Solar,Public Flows (2022 USD M),157.66
+2002,Wind,Electricity Generation (GWh),52430.34
+2002,Wind,Public Flows (2022 USD M),77.27
+2002,Total-Sum,Electricity Generation (GWh),16273848.91
+2002,Total-Sum,Public Flows (2022 USD M),5154.04
+2003,Bioenergy,Electricity Generation (GWh),173036.73
+2003,Bioenergy,Public Flows (2022 USD M),131.2
+2003,Fossil,Electricity Generation (GWh),11142907.28
+2003,Fossil,Public Flows (2022 USD M),2711.1
+2003,Geothermal,Electricity Generation (GWh),53775.79
+2003,Geothermal,Public Flows (2022 USD M),0.23
+2003,Hydropower,Electricity Generation (GWh),2627632.32
+2003,Hydropower,Public Flows (2022 USD M),4384.07
+2003,Marine,Electricity Generation (GWh),530.83
+2003,Nuclear,Electricity Generation (GWh),2637711.64
+2003,Nuclear,Public Flows (2022 USD M),5.33
+2003,Other-Non-renewable,Electricity Generation (GWh),68615.01
+2003,Pumped-Storage,Electricity Generation (GWh),89244.24
+2003,Solar,Electricity Generation (GWh),2376.67
+2003,Solar,Public Flows (2022 USD M),63.49
+2003,Wind,Electricity Generation (GWh),63397.65
+2003,Wind,Public Flows (2022 USD M),144.14
+2003,Total-Sum,Electricity Generation (GWh),16859228.16
+2003,Total-Sum,Public Flows (2022 USD M),7439.56
+2004,Bioenergy,Electricity Generation (GWh),188242.4
+2004,Bioenergy,Public Flows (2022 USD M),30
+2004,Fossil,Electricity Generation (GWh),11584536.11
+2004,Fossil,Public Flows (2022 USD M),1895.75
+2004,Geothermal,Electricity Generation (GWh),56060.82
+2004,Geothermal,Public Flows (2022 USD M),93.62
+2004,Hydropower,Electricity Generation (GWh),2802302.48
+2004,Hydropower,Public Flows (2022 USD M),2809.29
+2004,Marine,Electricity Generation (GWh),508.64
+2004,Nuclear,Electricity Generation (GWh),2740962.25
+2004,Nuclear,Public Flows (2022 USD M),831.79
+2004,Other-Non-renewable,Electricity Generation (GWh),72074.31
+2004,Pumped-Storage,Electricity Generation (GWh),91000.74
+2004,Solar,Electricity Generation (GWh),3072.19
+2004,Solar,Public Flows (2022 USD M),16.17
+2004,Wind,Electricity Generation (GWh),84108.45
+2004,Wind,Public Flows (2022 USD M),130.33
+2004,Total-Sum,Electricity Generation (GWh),17622868.39
+2004,Total-Sum,Public Flows (2022 USD M),5806.95
+2005,Bioenergy,Electricity Generation (GWh),208990.23
+2005,Bioenergy,Public Flows (2022 USD M),230.05
+2005,Fossil,Electricity Generation (GWh),12148685.72
+2005,Fossil,Public Flows (2022 USD M),3126.84
+2005,Geothermal,Electricity Generation (GWh),58466.67
+2005,Geothermal,Public Flows (2022 USD M),196.69
+2005,Hydropower,Electricity Generation (GWh),2919237.09
+2005,Hydropower,Public Flows (2022 USD M),1846.96
+2005,Marine,Electricity Generation (GWh),516.36
+2005,Nuclear,Electricity Generation (GWh),2769058.1
+2005,Nuclear,Public Flows (2022 USD M),33.24
+2005,Other-Non-renewable,Electricity Generation (GWh),77212.12
+2005,Pumped-Storage,Electricity Generation (GWh),93979.4
+2005,Solar,Electricity Generation (GWh),4387.92
+2005,Solar,Public Flows (2022 USD M),265.47
+2005,Wind,Electricity Generation (GWh),103243.2
+2005,Wind,Public Flows (2022 USD M),446.7
+2005,Total-Sum,Electricity Generation (GWh),18383776.81
+2005,Total-Sum,Public Flows (2022 USD M),6145.95
+2006,Bioenergy,Electricity Generation (GWh),221633.05
+2006,Bioenergy,Public Flows (2022 USD M),355.88
+2006,Fossil,Electricity Generation (GWh),12681251.44
+2006,Fossil,Public Flows (2022 USD M),2398.15
+2006,Geothermal,Electricity Generation (GWh),59769.34
+2006,Geothermal,Public Flows (2022 USD M),9.76
+2006,Hydropower,Electricity Generation (GWh),3031274.81
+2006,Hydropower,Public Flows (2022 USD M),3225.17
+2006,Marine,Electricity Generation (GWh),490.73
+2006,Marine,Public Flows (2022 USD M),0.4
+2006,Nuclear,Electricity Generation (GWh),2791900.56
+2006,Nuclear,Public Flows (2022 USD M),143.82
+2006,Other-Non-renewable,Electricity Generation (GWh),77828.62
+2006,Pumped-Storage,Electricity Generation (GWh),94249.19
+2006,Solar,Electricity Generation (GWh),5998.61
+2006,Solar,Public Flows (2022 USD M),65.36
+2006,Wind,Electricity Generation (GWh),129545.44
+2006,Wind,Public Flows (2022 USD M),197.12
+2006,Total-Sum,Electricity Generation (GWh),19093941.79
+2006,Total-Sum,Public Flows (2022 USD M),6395.66
+2007,Bioenergy,Electricity Generation (GWh),245019.24
+2007,Bioenergy,Public Flows (2022 USD M),236.68
+2007,Fossil,Electricity Generation (GWh),13466119.3
+2007,Fossil,Public Flows (2022 USD M),4125.3
+2007,Geothermal,Electricity Generation (GWh),62668.89
+2007,Geothermal,Public Flows (2022 USD M),8.32
+2007,Hydropower,Electricity Generation (GWh),3068469.39
+2007,Hydropower,Public Flows (2022 USD M),6308.92
+2007,Marine,Electricity Generation (GWh),496.02
+2007,Nuclear,Electricity Generation (GWh),2720120.59
+2007,Nuclear,Public Flows (2022 USD M),130.59
+2007,Other-Non-renewable,Electricity Generation (GWh),75160.6
+2007,Pumped-Storage,Electricity Generation (GWh),97233.6
+2007,Solar,Electricity Generation (GWh),8081.15
+2007,Solar,Public Flows (2022 USD M),25.98
+2007,Wind,Electricity Generation (GWh),168926.75
+2007,Wind,Public Flows (2022 USD M),133.18
+2007,Total-Sum,Electricity Generation (GWh),19912295.53
+2007,Total-Sum,Public Flows (2022 USD M),10968.97
+2008,Bioenergy,Electricity Generation (GWh),263472.41
+2008,Bioenergy,Public Flows (2022 USD M),753.19
+2008,Fossil,Electricity Generation (GWh),13651621.41
+2008,Fossil,Public Flows (2022 USD M),4374.3
+2008,Geothermal,Electricity Generation (GWh),65262.18
+2008,Geothermal,Public Flows (2022 USD M),2.44
+2008,Hydropower,Electricity Generation (GWh),3217181.62
+2008,Hydropower,Public Flows (2022 USD M),6481.15
+2008,Marine,Electricity Generation (GWh),487.85
+2008,Marine,Public Flows (2022 USD M),0.01
+2008,Nuclear,Electricity Generation (GWh),2734723.22
+2008,Nuclear,Public Flows (2022 USD M),415.87
+2008,Other-Non-renewable,Electricity Generation (GWh),74541.71
+2008,Other-Non-renewable, Public Flows (2022 USD M),41.81
+2008,Pumped-Storage,Electricity Generation (GWh),91983.4
+2008,Solar,Electricity Generation (GWh),12755.61
+2008,Solar,Public Flows (2022 USD M),350.69
+2008,Wind,Electricity Generation (GWh),216925.21
+2008,Wind,Public Flows (2022 USD M),2213.92
+2008,Total-Sum,Electricity Generation (GWh),20328954.62
+2008,Total-Sum,Public Flows (2022 USD M),14633.38
+2009,Bioenergy,Electricity Generation (GWh),281666.12
+2009,Bioenergy,Public Flows (2022 USD M),880.37
+2009,Fossil,Electricity Generation (GWh),13461857.78
+2009,Fossil,Public Flows (2022 USD M),23349.38
+2009,Geothermal,Electricity Generation (GWh),67289.74
+2009,Geothermal,Public Flows (2022 USD M),431.39
+2009,Hydropower,Electricity Generation (GWh),3267053.22
+2009,Hydropower,Public Flows (2022 USD M),10372.81
+2009,Marine,Electricity Generation (GWh),486.93
+2009,Marine,Public Flows (2022 USD M),0.08
+2009,Nuclear,Electricity Generation (GWh),2692627.33
+2009,Nuclear,Public Flows (2022 USD M),458.42
+2009,Other-Non-renewable,Electricity Generation (GWh),79764.79
+2009,Other-Non-renewable, Public Flows (2022 USD M),67.62
+2009,Pumped-Storage,Electricity Generation (GWh),89440.25
+2009,Solar,Electricity Generation (GWh),20948.13
+2009,Solar,Public Flows (2022 USD M),1969.67
+2009,Wind,Electricity Generation (GWh),272077.4
+2009,Wind,Public Flows (2022 USD M),1868.1
+2009,Total-Sum,Electricity Generation (GWh),20233211.69
+2009,Total-Sum,Public Flows (2022 USD M),39397.84
+2010,Bioenergy,Electricity Generation (GWh),317294.76
+2010,Bioenergy,Public Flows (2022 USD M),927.79
+2010,Fossil,Electricity Generation (GWh),14440585.94
+2010,Fossil,Public Flows (2022 USD M),10550.58
+2010,Geothermal,Electricity Generation (GWh),68436.19
+2010,Geothermal,Public Flows (2022 USD M),760.97
+2010,Hydropower,Electricity Generation (GWh),3437749.05
+2010,Hydropower,Public Flows (2022 USD M),6746.83
+2010,Marine,Electricity Generation (GWh),514.33
+2010,Marine,Public Flows (2022 USD M),0.08
+2010,Nuclear,Electricity Generation (GWh),2750407.92
+2010,Nuclear,Public Flows (2022 USD M),2563.82
+2010,Other-Non-renewable,Electricity Generation (GWh),94642.78
+2010,Pumped-Storage,Electricity Generation (GWh),95405.14
+2010,Solar,Electricity Generation (GWh),33789.97
+2010,Solar,Public Flows (2022 USD M),2239.18
+2010,Wind,Electricity Generation (GWh),342890.45
+2010,Wind,Public Flows (2022 USD M),5434.28
+2010,Total-Sum,Electricity Generation (GWh),21581716.53
+2010,Total-Sum,Public Flows (2022 USD M),29223.53
+2011,Bioenergy,Electricity Generation (GWh),335001.69
+2011,Bioenergy,Public Flows (2022 USD M),1141.22
+2011,Fossil,Electricity Generation (GWh),15122111.41
+2011,Fossil,Public Flows (2022 USD M),11644.15
+2011,Geothermal,Electricity Generation (GWh),69796.17
+2011,Geothermal,Public Flows (2022 USD M),902.07
+2011,Hydropower,Electricity Generation (GWh),3514036.77
+2011,Hydropower,Public Flows (2022 USD M),10100.18
+2011,Marine,Electricity Generation (GWh),513.46
+2011,Nuclear,Electricity Generation (GWh),2576728.78
+2011,Nuclear,Public Flows (2022 USD M),2740.55
+2011,Other-Non-renewable,Electricity Generation (GWh),100837.29
+2011,Other-Non-renewable, Public Flows (2022 USD M),53.3
+2011,Pumped-Storage,Electricity Generation (GWh),90414.43
+2011,Solar,Electricity Generation (GWh),65665.54
+2011,Solar,Public Flows (2022 USD M),1999.28
+2011,Wind,Electricity Generation (GWh),433861.89
+2011,Wind,Public Flows (2022 USD M),4228.07
+2011,Total-Sum,Electricity Generation (GWh),22308967.43
+2011,Total-Sum,Public Flows (2022 USD M),32808.82
+2012,Bioenergy,Electricity Generation (GWh),370592.95
+2012,Bioenergy,Public Flows (2022 USD M),645.14
+2012,Fossil,Electricity Generation (GWh),15449002.24
+2012,Fossil,Public Flows (2022 USD M),12996.11
+2012,Geothermal,Electricity Generation (GWh),70876.7
+2012,Geothermal,Public Flows (2022 USD M),440.18
+2012,Hydropower,Electricity Generation (GWh),3692513.53
+2012,Hydropower,Public Flows (2022 USD M),14447.69
+2012,Marine,Electricity Generation (GWh),498.36
+2012,Marine,Public Flows (2022 USD M),0.03
+2012,Nuclear,Electricity Generation (GWh),2460229.61
+2012,Nuclear,Public Flows (2022 USD M),60.89
+2012,Other-Non-renewable,Electricity Generation (GWh),98111.11
+2012,Pumped-Storage,Electricity Generation (GWh),89051.2
+2012,Pumped-Storage,Public Flows (2022 USD M),186.04
+2012,Solar,Electricity Generation (GWh),101665.42
+2012,Solar,Public Flows (2022 USD M),4466.81
+2012,Wind,Electricity Generation (GWh),526180.52
+2012,Wind,Public Flows (2022 USD M),3981.24
+2012,Total-Sum,Electricity Generation (GWh),22858721.64
+2012,Total-Sum,Public Flows (2022 USD M),37224.13
+2013,Bioenergy,Electricity Generation (GWh),397302.56
+2013,Bioenergy,Public Flows (2022 USD M),785.3
+2013,Fossil,Electricity Generation (GWh),15798767.83
+2013,Fossil,Public Flows (2022 USD M),10532.85
+2013,Geothermal,Electricity Generation (GWh),72408.03
+2013,Geothermal,Public Flows (2022 USD M),338.76
+2013,Hydropower,Electricity Generation (GWh),3791207.44
+2013,Hydropower,Public Flows (2022 USD M),7340.56
+2013,Marine,Electricity Generation (GWh),925.99
+2013,Marine,Public Flows (2022 USD M),0.41
+2013,Nuclear,Electricity Generation (GWh),2476945.64
+2013,Nuclear,Public Flows (2022 USD M),433.83
+2013,Other-Non-renewable,Electricity Generation (GWh),103062.64
+2013,Other-Non-renewable, Public Flows (2022 USD M),188
+2013,Pumped-Storage,Electricity Generation (GWh),88988.17
+2013,Solar,Electricity Generation (GWh),137365.01
+2013,Solar,Public Flows (2022 USD M),3119.8
+2013,Wind,Electricity Generation (GWh),636555.5
+2013,Wind,Public Flows (2022 USD M),5045.25
+2013,Total-Sum,Electricity Generation (GWh),23503528.81
+2013,Total-Sum,Public Flows (2022 USD M),27784.76
+2014,Bioenergy,Electricity Generation (GWh),428781.85
+2014,Bioenergy,Public Flows (2022 USD M),1036.03
+2014,Fossil,Electricity Generation (GWh),15811866.69
+2014,Fossil,Public Flows (2022 USD M),8988.95
+2014,Geothermal,Electricity Generation (GWh),77343.68
+2014,Geothermal,Public Flows (2022 USD M),1232.41
+2014,Hydropower,Electricity Generation (GWh),3895421.91
+2014,Hydropower,Public Flows (2022 USD M),9857.2
+2014,Marine,Electricity Generation (GWh),999.16
+2014,Marine,Public Flows (2022 USD M),0.06
+2014,Nuclear,Electricity Generation (GWh),2533390.3
+2014,Nuclear,Public Flows (2022 USD M),7094.11
+2014,Other-Non-renewable,Electricity Generation (GWh),107314.83
+2014,Pumped-Storage,Electricity Generation (GWh),92254.35
+2014,Solar,Electricity Generation (GWh),192590.35
+2014,Solar,Public Flows (2022 USD M),3882.52
+2014,Wind,Electricity Generation (GWh),712215.7
+2014,Wind,Public Flows (2022 USD M),8273.05
+2014,Total-Sum,Electricity Generation (GWh),23852178.82
+2014,Total-Sum,Public Flows (2022 USD M),40364.33
+2015,Bioenergy,Electricity Generation (GWh),456381.75
+2015,Bioenergy,Public Flows (2022 USD M),1499.21
+2015,Fossil,Electricity Generation (GWh),15975108.14
+2015,Fossil,Public Flows (2022 USD M),6747.92
+2015,Geothermal,Electricity Generation (GWh),81228.85
+2015,Geothermal,Public Flows (2022 USD M),1211.67
+2015,Hydropower,Electricity Generation (GWh),3897497.59
+2015,Hydropower,Public Flows (2022 USD M),4779.77
+2015,Marine,Electricity Generation (GWh),1008
+2015,Marine,Public Flows (2022 USD M),0.09
+2015,Nuclear,Electricity Generation (GWh),2569723.7
+2015,Nuclear,Public Flows (2022 USD M),185.92
+2015,Other-Non-renewable,Electricity Generation (GWh),109841
+2015,Other-Non-renewable, Public Flows (2022 USD M),18.6
+2015,Pumped-Storage,Electricity Generation (GWh),94030.76
+2015,Solar,Electricity Generation (GWh),252301.59
+2015,Solar,Public Flows (2022 USD M),2735.66
+2015,Wind,Electricity Generation (GWh),827996.52
+2015,Wind,Public Flows (2022 USD M),4960.91
+2015,Total-Sum,Electricity Generation (GWh),24265117.9
+2015,Total-Sum,Public Flows (2022 USD M),22139.75
+2016,Bioenergy,Electricity Generation (GWh),471311.12
+2016,Bioenergy,Public Flows (2022 USD M),881.24
+2016,Fossil,Electricity Generation (GWh),16195752.87
+2016,Fossil,Public Flows (2022 USD M),11734.7
+2016,Geothermal,Electricity Generation (GWh),83240.84
+2016,Geothermal,Public Flows (2022 USD M),1131.7
+2016,Hydropower,Electricity Generation (GWh),4037659.67
+2016,Hydropower,Public Flows (2022 USD M),10776.56
+2016,Marine,Electricity Generation (GWh),1043.85
+2016,Marine,Public Flows (2022 USD M),11.98
+2016,Nuclear,Electricity Generation (GWh),2605681.71
+2016,Nuclear,Public Flows (2022 USD M),3089.46
+2016,Other-Non-renewable,Electricity Generation (GWh),123216.3
+2016,Other-Non-renewable, Public Flows (2022 USD M),0.57
+2016,Pumped-Storage,Electricity Generation (GWh),114411.12
+2016,Solar,Electricity Generation (GWh),324828.14
+2016,Solar,Public Flows (2022 USD M),11211.8
+2016,Wind,Electricity Generation (GWh),953046.33
+2016,Wind,Public Flows (2022 USD M),5169.71
+2016,Total-Sum,Electricity Generation (GWh),24910191.95
+2016,Total-Sum,Public Flows (2022 USD M),44007.72
+2017,Bioenergy,Electricity Generation (GWh),493861.35
+2017,Bioenergy,Public Flows (2022 USD M),507.79
+2017,Fossil,Electricity Generation (GWh),16599931.84
+2017,Fossil,Public Flows (2022 USD M),1864.74
+2017,Geothermal,Electricity Generation (GWh),86705.05
+2017,Geothermal,Public Flows (2022 USD M),1487.88
+2017,Hydropower,Electricity Generation (GWh),4089207.4
+2017,Hydropower,Public Flows (2022 USD M),8842.66
+2017,Marine,Electricity Generation (GWh),1049.57
+2017,Nuclear,Electricity Generation (GWh),2633425.55
+2017,Nuclear,Public Flows (2022 USD M),165.86
+2017,Other-Non-renewable,Electricity Generation (GWh),130903.26
+2017,Other-Non-renewable, Public Flows (2022 USD M),5.34
+2017,Pumped-Storage,Electricity Generation (GWh),121016.79
+2017,Solar,Electricity Generation (GWh),435595.21
+2017,Solar,Public Flows (2022 USD M),4740.96
+2017,Wind,Electricity Generation (GWh),1131499
+2017,Wind,Public Flows (2022 USD M),6587.01
+2017,Total-Sum,Electricity Generation (GWh),25723195.02
+2017,Total-Sum,Public Flows (2022 USD M),24202.24
+2018,Bioenergy,Electricity Generation (GWh),517088.54
+2018,Bioenergy,Public Flows (2022 USD M),1393.95
+2018,Fossil,Electricity Generation (GWh),17073782.65
+2018,Fossil,Public Flows (2022 USD M),4372.73
+2018,Geothermal,Electricity Generation (GWh),89464.93
+2018,Geothermal,Public Flows (2022 USD M),1045.51
+2018,Hydropower,Electricity Generation (GWh),4207213.04
+2018,Hydropower,Public Flows (2022 USD M),6942.53
+2018,Marine,Electricity Generation (GWh),1022.78
+2018,Nuclear,Electricity Generation (GWh),2708701.83
+2018,Nuclear,Public Flows (2022 USD M),2747.14
+2018,Other-Non-renewable,Electricity Generation (GWh),138794.22
+2018,Other-Non-renewable, Public Flows (2022 USD M),56.95
+2018,Pumped-Storage,Electricity Generation (GWh),117467.24
+2018,Solar,Electricity Generation (GWh),560272.84
+2018,Solar,Public Flows (2022 USD M),4340.88
+2018,Wind,Electricity Generation (GWh),1258771.64
+2018,Wind,Public Flows (2022 USD M),3135.96
+2018,Total-Sum,Electricity Generation (GWh),26672579.71
+2018,Total-Sum,Public Flows (2022 USD M),24035.65
+2019,Bioenergy,Electricity Generation (GWh),546771.64
+2019,Bioenergy,Public Flows (2022 USD M),628.93
+2019,Fossil,Electricity Generation (GWh),17041208.17
+2019,Fossil,Public Flows (2022 USD M),6158.65
+2019,Geothermal,Electricity Generation (GWh),92001.8
+2019,Geothermal,Public Flows (2022 USD M),373.54
+2019,Hydropower,Electricity Generation (GWh),4252819.22
+2019,Hydropower,Public Flows (2022 USD M),1714.47
+2019,Marine,Electricity Generation (GWh),996.34
+2019,Marine,Public Flows (2022 USD M),2.69
+2019,Nuclear,Electricity Generation (GWh),2780488.64
+2019,Nuclear,Public Flows (2022 USD M),44.81
+2019,Other-Non-renewable,Electricity Generation (GWh),147451.64
+2019,Other-Non-renewable, Public Flows (2022 USD M),42.1
+2019,Pumped-Storage,Electricity Generation (GWh),114165.03
+2019,Solar,Electricity Generation (GWh),691604.42
+2019,Solar,Public Flows (2022 USD M),3347.19
+2019,Wind,Electricity Generation (GWh),1412811.61
+2019,Wind,Public Flows (2022 USD M),3510.4
+2019,Total-Sum,Electricity Generation (GWh),27080318.51
+2019,Total-Sum,Public Flows (2022 USD M),15822.78
+2020,Bioenergy,Electricity Generation (GWh),569263.13
+2020,Bioenergy,Public Flows (2022 USD M),741.05
+2020,Fossil,Electricity Generation (GWh),16607660.82
+2020,Fossil,Public Flows (2022 USD M),4208.25
+2020,Geothermal,Electricity Generation (GWh),95452.99
+2020,Geothermal,Public Flows (2022 USD M),573.5
+2020,Hydropower,Electricity Generation (GWh),4368382.74
+2020,Hydropower,Public Flows (2022 USD M),2646.7
+2020,Marine,Electricity Generation (GWh),986.38
+2020,Nuclear,Electricity Generation (GWh),2678922.19
+2020,Nuclear,Public Flows (2022 USD M),41.06
+2020,Other-Non-renewable,Electricity Generation (GWh),152921.51
+2020,Other-Non-renewable, Public Flows (2022 USD M),1.94
+2020,Pumped-Storage,Electricity Generation (GWh),120133.61
+2020,Solar,Electricity Generation (GWh),841856.53
+2020,Solar,Public Flows (2022 USD M),3652.09
+2020,Wind,Electricity Generation (GWh),1588944.68
+2020,Wind,Public Flows (2022 USD M),2291.98
+2020,Total-Sum,Electricity Generation (GWh),27024524.58
+2020,Total-Sum,Public Flows (2022 USD M),14156.57
+2021,Bioenergy,Electricity Generation (GWh),612053.2
+2021,Bioenergy,Public Flows (2022 USD M),441.31
+2021,Fossil,Electricity Generation (GWh),17429661.06
+2021,Fossil,Public Flows (2022 USD M),2856.21
+2021,Geothermal,Electricity Generation (GWh),94618.03
+2021,Geothermal,Public Flows (2022 USD M),757.76
+2021,Hydropower,Electricity Generation (GWh),4296867.12
+2021,Hydropower,Public Flows (2022 USD M),3075.66
+2021,Marine,Electricity Generation (GWh),972.32
+2021,Marine,Public Flows (2022 USD M),0.01
+2021,Nuclear,Electricity Generation (GWh),2798890.6
+2021,Nuclear,Public Flows (2022 USD M),91.09
+2021,Other-Non-renewable,Electricity Generation (GWh),168828.98
+2021,Other-Non-renewable, Public Flows (2022 USD M),468.77
+2021,Pumped-Storage,Electricity Generation (GWh),124569.92
+2021,Solar,Electricity Generation (GWh),1036831.92
+2021,Solar,Public Flows (2022 USD M),6660.26
+2021,Wind,Electricity Generation (GWh),1842085.92
+2021,Wind,Public Flows (2022 USD M),4360.25
+2021,Total-Sum,Electricity Generation (GWh),28405379.07
+2021,Total-Sum,Public Flows (2022 USD M),18711.32
+2022,Bioenergy,Electricity Generation (GWh),622497.13
+2022,Bioenergy,Public Flows (2022 USD M),368.36
+2022,Fossil,Electricity Generation (GWh),17698937.98
+2022,Fossil,Public Flows (2022 USD M),1658.78
+2022,Geothermal,Electricity Generation (GWh),97277
+2022,Geothermal,Public Flows (2022 USD M),53.51
+2022,Hydropower,Electricity Generation (GWh),4341836.26
+2022,Hydropower,Public Flows (2022 USD M),1477.94
+2022,Marine,Electricity Generation (GWh),957.63
+2022,Marine,Public Flows (2022 USD M),0.25
+2022,Nuclear,Electricity Generation (GWh),2678841.33
+2022,Nuclear,Public Flows (2022 USD M),57.27
+2022,Other-Non-renewable,Electricity Generation (GWh),174893.62
+2022,Other-Non-renewable, Public Flows (2022 USD M),0.09
+2022,Pumped-Storage,Electricity Generation (GWh),142061.69
+2022,Pumped-Storage,Public Flows (2022 USD M),35.59
+2022,Solar,Electricity Generation (GWh),1297212.9
+2022,Solar,Public Flows (2022 USD M),7933.19
+2022,Wind,Electricity Generation (GWh),2097488.45
+2022,Wind,Public Flows (2022 USD M),3788.64
+2022,Total-Sum,Electricity Generation (GWh),29152003.99
+2022,Total-Sum,Public Flows (2022 USD M),15373.62
+2023,Bioenergy,Electricity Generation (GWh),631518.51
+2023,Bioenergy,Public Flows (2022 USD M),481.99
+2023,Fossil,Electricity Generation (GWh),17875063.14
+2023,Fossil,Public Flows (2022 USD M),3972.43
+2023,Geothermal,Electricity Generation (GWh),98158.57
+2023,Geothermal,Public Flows (2022 USD M),54.15
+2023,Hydropower,Electricity Generation (GWh),4270210.03
+2023,Hydropower,Public Flows (2022 USD M),3278.96
+2023,Marine,Electricity Generation (GWh),919.27
+2023,Nuclear,Electricity Generation (GWh),2738520.35
+2023,Nuclear,Public Flows (2022 USD M),121.57
+2023,Other-Non-renewable,Electricity Generation (GWh),177506.33
+2023,Other-Non-renewable, Public Flows (2022 USD M),0.58
+2023,Pumped-Storage,Electricity Generation (GWh),147599.78
+2023,Solar,Electricity Generation (GWh),1623750.89
+2023,Solar,Public Flows (2022 USD M),10360.2
+2023,Wind,Electricity Generation (GWh),2303935.44
+2023,Wind,Public Flows (2022 USD M),4199.48
+2023,Total-Sum,Electricity Generation (GWh),29867182.31
+2023,Total-Sum,Public Flows (2022 USD M),22469.36
